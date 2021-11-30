@@ -1,0 +1,2 @@
+fastafile	input.fasta
+reference	reference.fasta

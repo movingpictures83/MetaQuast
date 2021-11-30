@@ -1,0 +1,2 @@
+Prefix plugins/MetaQuast/example
+Plugin MetaQuast inputfile parameters.txt outputfile MetaQuast_Results
